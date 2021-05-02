@@ -1,4 +1,4 @@
-@AllStates
+@AllStates @Capstone
   Feature: read and delete states
 
     Background: set all states to response

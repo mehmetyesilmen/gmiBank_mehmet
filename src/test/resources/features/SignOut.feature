@@ -12,8 +12,8 @@
 
       Examples:
         |username|password|
-        |firstuser|123456|
-        |admin2   |TechAdmin2|
+        #|erolbilican|123456|
+        |teamm_4  |3321asdf|
 
     Scenario: signing out from any user
       Given user clicks on current user

@@ -1,6 +1,6 @@
+@database @demo
+
 Feature: Dummy Test can be verified
-
-
 
   @accounts
   Scenario: accounts end point
@@ -15,13 +15,11 @@ Feature: Dummy Test can be verified
       Then user logs in
       Examples:
       |username|password|
-      |firstUser    |firstUser123|
+      |teamm_4 |3321asdf|
 
       @database
       Scenario: database testing
         Given user gets all data from database
-
-
 
         @pdfGenerator
         Scenario Outline: generate a pdf

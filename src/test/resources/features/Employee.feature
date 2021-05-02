@@ -14,7 +14,7 @@
 
       Examples:
         |username|password|
-        |firstuser|123456|
+        |teamm_4 |3321asdf|
 
     @smoke
     Scenario Outline: create a new account

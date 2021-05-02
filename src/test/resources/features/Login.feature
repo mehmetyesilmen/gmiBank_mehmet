@@ -1,10 +1,5 @@
-@Login
+@Login @Capstone
   Feature: login page feature
-
-
-
-
-
 
     @login
     Scenario Outline: go to registration
@@ -15,8 +10,6 @@
       When user clicks on manageCustomer
       Then user creates a customer
 
-
-
       Examples:
-        |username|password|
-        |firstuser|123456|
+        |username |password      |
+        | teamm_4 |3321asdf      |

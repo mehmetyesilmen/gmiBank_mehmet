@@ -1,4 +1,4 @@
-@activateUser
+@activateUser @Login @Capstone
   Feature: all user roles and activations
 
 
@@ -13,7 +13,7 @@
 
       Examples:
         |username|password|
-        |admin2|TechAdmin2|
+        |teamm_4|3321asdf|
 
 
 

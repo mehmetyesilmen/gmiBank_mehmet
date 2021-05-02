@@ -1,4 +1,4 @@
-@SignUp
+@SignUp @Capstone
 Feature: SignUp page for GMI Bank
 
 

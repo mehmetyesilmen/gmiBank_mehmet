@@ -21,7 +21,6 @@ public class Driver {
     private Driver(){
         //we don't want to create another abject. Singleton pattern
     }
-
     //create a driver instance
     static WebDriver driver;
     //to initialize the driver we create a static method

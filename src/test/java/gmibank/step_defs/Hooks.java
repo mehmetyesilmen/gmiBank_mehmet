@@ -17,12 +17,12 @@ public class Hooks {
 
     //Tagged Hooks Annotation
     //This will run before any SPECIFIC SCENARIO
-    @Before(order = 2)
-    public void searchIphone(){
+    //@Before(order = 2)
+    //public void searchIphone(){
 
 //        Driver.getDriver().manage().window().maximize();
 //        Driver.getDriver().manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
-    }
+    //}
 
     //This will run After each Scenario
     @After

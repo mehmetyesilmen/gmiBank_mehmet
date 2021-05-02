@@ -1,4 +1,4 @@
-@NewApplicants
+@NewApplicant  @Capstone
   Feature: Register new applicants
 
 
@@ -20,7 +20,7 @@
 
       Examples:
       |SSN|firstname|lastname|address|mobilephone|username|email|firstpassword|secondpassword|message|
-#    |393-45-5678|newUser|lastbatch|Milky way|456-679-5588|utilisateur|kalin54@gmail.com|Utilisateur123.|Utilisateur123.|successfully registered|
+#    |393-45-5678|newUser|lastbatch|Milky way|456-679-5588|utilisateur|kalin54@gmail.com|Utilisateur123!.|Utilisateur123!.|successfully registered|
     |333-45-2345|Ben|Student|Long Island|689-345-2354|StakeHolder|stakeholder@gmail.com|stakeholder[1].|stakeholder[1].|successfully registered|
 #    |120-45-2345|,batch133333333|,batch2|,Gallows road 8765|321-345-2354|user2|hisetkal@gmail.com|344321user5[3]|4321user5[3]|successfully registered|
 #    |109-45-2345|,batch1333|,batch2|,Gallows road 8765|321-345-2354|user2|hisetkal@gmail.com|4321user5[3]|024321user5[3]|successfully registered     |

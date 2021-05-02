@@ -1,4 +1,4 @@
-@AllStates
+@AllStates @Capstone
   Feature: read, create, update and delete all states
 
     Background: read all states
