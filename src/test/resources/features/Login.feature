@@ -1,4 +1,4 @@
-@Login @Capstone
+@Login @Capstone @demo
   Feature: login page feature
 
     @login

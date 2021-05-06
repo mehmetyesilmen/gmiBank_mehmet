@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gmiBank_mehmet" />
-        <module name="Gmibankapplication-master" />
         <module name="gmiapplication" />
+        <module name="Gmibankapplication-master" />
+        <module name="gmiBank_mehmet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
